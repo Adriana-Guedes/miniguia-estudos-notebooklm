@@ -1,12 +1,10 @@
-/**
+
  * -------------------------------------------------------
  * 🧠 Projeto: Acelere sua Aprendizagem com IA
  * 📘 Caderno Temático: Neurociência da Aprendizagem
  * 👩‍🏫 Referência: Barbara Oakley
  * -------------------------------------------------------
- */
 
-/**
  * =======================================================
  * 📌 CONTEXTO
  * =======================================================
@@ -34,7 +32,6 @@
  * com o suporte da Inteligência Artificial como meio de
  * questionamento e revisão — e não apenas geração de respostas.
 
- */
 
 
 ## 📚 Curadoria de Fontes (Texto e PDF)
