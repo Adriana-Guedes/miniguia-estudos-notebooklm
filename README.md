@@ -97,24 +97,31 @@ Por isso, foi necessário considerar apenas as fontes do NotebookLM.
 # 🧠 Miniguia de Estudo – Aprendizagem e Neurociência
 Baseado no trabalho de Barbara Oakley
 
+
 ## 📘 Resumos Estruturados do Assunto
 ## 🧠 Como o cérebro adulto aprende
 Segundo a neurociência, o cérebro adulto mantém a capacidade de aprender ao longo da vida graças à neuroplasticidade, isto é, a habilidade de criar e fortalecer novas conexões neurais. O aprendizado ocorre quando há prática ativa, repetição ao longo do tempo e esforço consciente, o que leva à consolidação das informações na memória de longo prazo.
 
+
 ### 🎯 Modo Focado
 O modo focado ocorre quando direcionamos atenção total a uma tarefa específica. Nesse estado, o cérebro utiliza circuitos neurais já conhecidos, sendo ideal para resolver problemas, estudar conceitos técnicos e praticar habilidades. Esse modo exige esforço cognitivo e concentração, mas não deve ser sustentado por longos períodos sem pausa, pois pode gerar fadiga mental.
+
 
 ### 🌱 Modo Difuso
 O modo difuso é um estado mental mais relaxado, ativado durante momentos de descanso ou atividades automáticas, como caminhar ou tomar banho. Ele permite que o cérebro faça conexões mais amplas e criativas entre diferentes ideias. Esse modo é essencial para a compreensão profunda e para a geração de insights.
 
+
 ## 🔁 Alternância entre os Modos
 A aprendizagem eficaz ocorre pela alternância entre modo focado e modo difuso. O foco intenso introduz novas informações, enquanto o modo difuso ajuda a integrá‑las, fortalecendo as conexões neurais. Essa alternância reduz bloqueios cognitivos e melhora a retenção do conteúdo.
+
 
 ## 🧩 Chunking (Fragmentação)
 Chunking é o processo de agrupar informações em blocos significativos. Em vez de memorizar dados isolados, o cérebro cria padrões e estruturas compactas, facilitando o acesso e a aplicação do conhecimento. A criação de chunks eficazes depende de compreensão, prática e contextualização.
 
+
 ## 🔄 Active Recall (Recordação Ativa)
 A recordação ativa consiste em tentar lembrar a informação sem consultar o material. Essa prática fortalece significativamente as conexões neurais, sendo mais eficaz do que releitura passiva. Testes, explicações em voz alta e ensinar alguém são exemplos de active recall.
+
 
 ## 💤 Importância do Sono
 O sono desempenha um papel fundamental na aprendizagem, pois é durante esse período que o cérebro consolida memórias, elimina conexões desnecessárias e fortalece as novas aprendizagens. Dormir bem faz parte do processo de estudar.
