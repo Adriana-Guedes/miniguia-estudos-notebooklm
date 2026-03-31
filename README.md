@@ -91,8 +91,6 @@ Ao pedir as fontes, a IA listou referências além dos materiais que haviam sido
 Por isso, foi necessário considerar apenas as fontes do NotebookLM.
 
 
-" Utilizando apenas o material fornecido, quero saber de forma breve, como o cérebro adulto 
-aprende segundo a neurociência. Explique os modos e ao final, liste as fontes utilizadas"
 
 
 
