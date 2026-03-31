@@ -73,8 +73,6 @@ ao entendimento dos conceitos apresentados por Barbara Oakley.
 - Using AI to Strengthen Learning (2024)  
   https://www.youtube.com/watch?v=WUFAaqvc3us
 
-##
-##
   
 
 ## 🤖 Engenharia de Prompts 
@@ -92,7 +90,7 @@ Ao pedir as fontes, a IA listou referências além dos materiais que haviam sido
 Por isso, foi necessário considerar apenas as fontes do NotebookLM.
 
 
-
+#
 
 
 # 🧠 Miniguia de Estudo – Aprendizagem e Neurociência
