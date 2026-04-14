@@ -1,181 +1,204 @@
-# 🚀 Roadmap de Carreira — Desenvolvedora Back-end
+* -------------------------------------------------------
+* 🚀 Projeto: Roadmap de Carreira em Desenvolvimento Back-end
+* 📘 Trilho Profissional: Back-end Developer
+* 👩‍💻 Perfil: Desenvolvimento • Dados • Infraestrutura
+* 🏫 Plataforma: DIO + Estudo Autônomo
+* -------------------------------------------------------
 
-Plano de estudos personalizado para crescimento como **Desenvolvedora Back-end**, considerando:
-- 6 horas de estudo por semana  
-- Experiência prévia em NOC e Engenharia de Plataforma  
-- Foco em código, dados e resolução de problemas  
-- Objetivo de crescimento interno na empresa  
+* =======================================================
+# 📌 CONTEXTO
+* =======================================================
+*
+* Este projeto documenta um roadmap personalizado
+* de estudos para desenvolvimento de carreira como
+* Desenvolvedora Back-end.
+*
+* O plano foi construído considerando:
+* - Experiência prévia em NOC e Engenharia de Plataforma
+* - Interesse principal em código e dados
+* - Disponibilidade média de 6 horas semanais
+* - Objetivo de crescimento interno na empresa
+*
+* A proposta deste repositório é funcionar como:
+* - Caderno de estudos
+* - Guia de execução prática
+* - Evidência de evolução técnica
+* - Material de portfólio profissional
+*
+* A estratégia combina fundamentos sólidos, prática
+* progressiva e aplicação em problemas reais,
+* aproveitando conhecimentos prévios de produção
+* e infraestrutura.
+*
+* =======================================================
+# 🧩 VISÃO GERAL DA PROFISSÃO
+* =======================================================
+*
+* COMO É O DIA A DIA DE UMA DESENVOLVEDORA BACK-END:
+*
+* - Desenvolver e manter APIs e serviços
+* - Implementar regras de negócio
+* - Trabalhar com bancos de dados
+* - Integrar sistemas internos e externos
+* - Garantir performance, segurança e confiabilidade
+* - Colaborar com front-end, dados e produto
+*
+* DIFERENCIAL DO PERFIL:
+* Forte compreensão de ambientes produtivos,
+* infraestrutura, observabilidade e suporte.
+*
+* =======================================================
+# 🧠 MAPA DE SKILLS
+* =======================================================
+*
+* CORE SKILLS (ESSENCIAIS):
+* - Lógica de programação
+* - APIs REST
+* - Modelagem e manipulação de dados (SQL)
+* - Versionamento com Git
+*
+## NICE-TO-HAVE (COMPLEMENTARES):
+* - Conceitos básicos de cloud
+* - Logs e observabilidade
+* - Introdução à Inteligência Artificial
+*
+## FERRAMENTAS E TECNOLOGIAS:
+* - Linguagem: Java
+* - Framework: Spring Boot
+* - Banco de Dados: PostgreSQL / MySQL
+* - Backend: APIs REST
+* - Ferramentas: Git, Docker (nível inicial), Swagger
+* - Build: Maven ou Gradle
+* - Ambiente: Linux / Terminal
 
----
-
-## 🧩 Visão do Dia a Dia
-
-### Como é o trabalho de uma Desenvolvedora Back-end
-
-- Criar e manter APIs e serviços
-- Implementar regras de negócio
-- Trabalhar com bancos de dados
-- Integrar sistemas e serviços
-- Garantir performance, estabilidade e segurança
-- Colaborar com front-end, dados e produto
-
-> Diferencial: visão de produção e infraestrutura desde o início.
-
----
-
-## 🧠 Mapa de Skills
-
-### Core Skills (Essenciais)
-- Lógica de programação
-- Estrutura de APIs REST
-- Manipulação e modelagem de dados (SQL)
-- Versionamento de código com Git
-
-### Nice-to-Have (Complementares)
-- Conceitos básicos de cloud
-- Observabilidade e logs
-- Noções iniciais de IA aplicada
-
-### Ferramentas e Tecnologias
-- Linguagem: **JavaScript (Node.js)** ou **Python**
-- Banco de Dados: **PostgreSQL / MySQL**
-- Backend: **APIs REST**
-- Ferramentas: **Git, Docker (noções), Swagger**
-- Ambiente: **Linux / Terminal**
-
----
-
-## 📅 Roadmap de 90 Dias
-
-**Disponibilidade:** 6 horas por semana  
-(**ritmo recomendado:** ~1 hora por dia útil)
-
----
-
-### 🔹 Mês 1 — Fundamentos
-
-#### Semana 1–2
-- Revisão de lógica: variáveis, funções, arrays e objetos
-- Fundamentos da linguagem escolhida (Node.js ou Python)
-- Git básico (clone, commit, push)
-
-#### Semana 3–4
-- Conceitos de HTTP e REST
-- Criação de uma API simples (CRUD em memória)
-- Estruturação de projeto back-end
-
----
-
-### 🔹 Mês 2 — Prática com Dados
-
-#### Semana 5–6
-- SQL básico: SELECT, INSERT, UPDATE, DELETE
-- JOINs e modelagem simples
-- Conectar API a banco de dados
-
-#### Semana 7–8
-- Boas práticas de API
-- Tratamento de erros
-- Introdução à autenticação (conceito)
-
----
-
-### 🔹 Mês 3 — Portfólio e Preparação
-
-#### Semana 9–10
-- Refatorar e organizar o projeto
-- Documentação da API (Swagger + README)
-- Validações e testes básicos
-
-#### Semana 11–12
-- Simulação de uso real do sistema
-- Preparar apresentação do projeto
-- Treinar explicação técnica (entrevistas/conversas internas)
-
----
-
-## 🚀 Projeto de Portfólio
-
-### Projeto: **API de Gestão de Usuários e Conteúdo**
-
-#### Objetivo
-Desenvolver uma API REST que simule um sistema real de negócio.
-
-#### Escopo
-- Cadastro e autenticação de usuários
-- CRUD de entidades (ex: posts, registros ou tickets)
-- Persistência em banco de dados relacional
-
-#### Entregáveis
-- Repositório no GitHub
-- API funcional localmente
-- Documentação clara dos endpoints
-
-#### Critérios de Aceitação
-- Seguir padrão REST
-- Uso consistente de banco de dados
-- Código organizado e legível
-- Capacidade de explicar decisões técnicas
-
-💡 **Dica:**  
-Relacionar o projeto com conceitos de **produção, monitoramento e infraestrutura** é um grande diferencial.
-
----
-
-## 💬 Roteiro de Entrevistas (Júnior)
-
-### Pergunta 1 — O que faz um desenvolvedor back-end?
-**Resposta esperada:**  
-Responsável pela lógica, regras de negócio, dados e integração entre sistemas.
-
----
-
-### Pergunta 2 — O que é uma API REST?
-**Resposta esperada:**  
-Um padrão de comunicação entre sistemas via HTTP, usando verbos como GET, POST e PUT.
-
----
-
-### Pergunta 3 — Como você lida com erros?
-**Resposta esperada:**  
-Tratamento previsível, mensagens claras e logs para diagnóstico.
-
----
-
-### Pergunta 4 — Como você aprende algo novo?
-**Resposta esperada:**  
-Estudo conceitos, aplico na prática e conecto com problemas reais.
-
----
-
-### Pergunta 5 — Qual seu diferencial?
-**Resposta esperada:**  
-Visão de produção, infraestrutura e foco em resolver problemas reais.
-
----
-
-## 🎓 Trilha DIO Recomendada
-
-### Trilha
-**Formação Node.js Developer**
-
-### Por que essa trilha?
-- Foco direto em back-end
-- APIs, banco de dados e projetos práticos
-- Boa ponte entre estudo e atuação real
-
-### Próximos Passos
-1. Acesse https://www.dio.me  
-2. Busque por **Formação Node.js Developer**
-3. Inscreva-se gratuitamente
-4. Siga a trilha junto com este roadmap
-
----
-
-## ✨ Considerações Finais
-
-> Constância é mais importante que velocidade.
-
-Com disciplina e seu background em infraestrutura, este roadmap te posiciona muito bem para atuar oficialmente como **Desenvolvedora Back-end**.
-
-Boa jornada 🚀
+*
+* =======================================================
+# 📅 ROADMAP DE 90 DIAS
+* =======================================================
+*
+* CARGA DE ESTUDOS:
+* ~6 horas semanais (ritmo sustentável)
+*
+* -------------------------------------------------------
+## 🔹 MÊS 1 — FUNDAMENTOS
+* -------------------------------------------------------
+*
+* SEMANA 1–2:
+* - Revisar lógica de programação
+* - Fundamentos da linguagem escolhida
+* - Git: clone, commit, push
+*
+* SEMANA 3–4:
+* - HTTP e arquitetura REST
+* - Criar API simples (CRUD em memória)
+* - Organização inicial de projetos back-end
+*
+* -------------------------------------------------------
+* 🔹 MÊS 2 — PRÁTICA COM DADOS
+* -------------------------------------------------------
+*
+* SEMANA 5–6:
+* - SQL básico (SELECT, INSERT, UPDATE, DELETE)
+* - JOINs e modelagem simples
+* - Conectar API ao banco de dados
+*
+* SEMANA 7–8:
+* - Boas práticas de API
+* - Tratamento de erros
+* - Introdução à autenticação (conceitos)
+*
+* -------------------------------------------------------
+## 🔹 MÊS 3 — PORTFÓLIO E PREPARAÇÃO
+* -------------------------------------------------------
+*
+* SEMANA 9–10:
+* - Refatoração e organização do código
+* - Documentação da API (README + Swagger)
+* - Validações e testes básicos
+*
+* SEMANA 11–12:
+* - Simulação de cenários reais
+* - Preparação para explicação técnica
+* - Treino para entrevistas e alinhamento interno
+*
+* =======================================================
+## 🚀 PROJETO DE PORTFÓLIO
+* =======================================================
+*
+* PROJETO:
+* API de Gestão de Usuários e Conteúdo
+*
+* OBJETIVO:
+* Desenvolver uma API REST que represente
+* um sistema real de negócio.
+*
+* ESCOPO:
+* - Cadastro e autenticação de usuários
+* - CRUD de entidades
+* - Persistência em banco de dados relacional
+*
+* ENTREGÁVEIS:
+* - Código versionado no GitHub
+* - API funcional localmente
+* - Documentação clara dos endpoints
+*
+* CRITÉRIOS DE ACEITAÇÃO:
+* - Aderência ao padrão REST
+* - Código organizado e legível
+* - Capacidade de justificar decisões técnicas
+*
+* DICA:
+* Relacionar o projeto com produção,
+* monitoramento e infraestrutura aumenta
+* muito o valor profissional do portfólio.
+*
+* =======================================================
+## 💬 ROTEIRO DE ENTREVISTAS (JÚNIOR)
+* =======================================================
+*
+* PERGUNTA 1:
+* O que faz um desenvolvedor back-end?
+*
+* PERGUNTA 2:
+* O que é uma API REST?
+*
+* PERGUNTA 3:
+* Como você lida com erros no código?
+*
+* PERGUNTA 4:
+* Como você aprende uma tecnologia nova?
+*
+* PERGUNTA 5:
+* Qual seu diferencial como desenvolvedora?
+*
+* =======================================================
+## 🎓 TRILHA DIO RECOMENDADA
+* =======================================================
+*
+* TRILHA:
+* Bootcamp java
+*
+* JUSTIFICATIVA:
+* - Forte foco em back-end
+* - APIs, banco de dados e prática real
+* - Alinhada ao objetivo de crescimento interno
+*
+* PRÓXIMOS PASSOS:
+* 1. Acessar https://www.dio.me
+* 2. Buscar a trilha indicada
+* 3. Inscrever-se gratuitamente
+* 4. Executar em conjunto com este roadmap
+*
+* =======================================================
+## ✨ CONSIDERAÇÕES FINAIS
+* =======================================================
+*
+* Constância é mais importante do que velocidade.
+*
+* Este roadmap foi criado para evolução técnica
+* real, sustentável e alinhada ao mercado.
+*
+* Este repositório também serve como evidência
+* de organização, disciplina e maturidade técnica.
+*
+* -------------------------------------------------------
