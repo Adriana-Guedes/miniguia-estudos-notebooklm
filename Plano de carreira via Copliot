@@ -1,0 +1,181 @@
+# 🚀 Roadmap de Carreira — Desenvolvedora Back-end
+
+Plano de estudos personalizado para crescimento como **Desenvolvedora Back-end**, considerando:
+- 6 horas de estudo por semana  
+- Experiência prévia em NOC e Engenharia de Plataforma  
+- Foco em código, dados e resolução de problemas  
+- Objetivo de crescimento interno na empresa  
+
+---
+
+## 🧩 Visão do Dia a Dia
+
+### Como é o trabalho de uma Desenvolvedora Back-end
+
+- Criar e manter APIs e serviços
+- Implementar regras de negócio
+- Trabalhar com bancos de dados
+- Integrar sistemas e serviços
+- Garantir performance, estabilidade e segurança
+- Colaborar com front-end, dados e produto
+
+> Diferencial: visão de produção e infraestrutura desde o início.
+
+---
+
+## 🧠 Mapa de Skills
+
+### Core Skills (Essenciais)
+- Lógica de programação
+- Estrutura de APIs REST
+- Manipulação e modelagem de dados (SQL)
+- Versionamento de código com Git
+
+### Nice-to-Have (Complementares)
+- Conceitos básicos de cloud
+- Observabilidade e logs
+- Noções iniciais de IA aplicada
+
+### Ferramentas e Tecnologias
+- Linguagem: **JavaScript (Node.js)** ou **Python**
+- Banco de Dados: **PostgreSQL / MySQL**
+- Backend: **APIs REST**
+- Ferramentas: **Git, Docker (noções), Swagger**
+- Ambiente: **Linux / Terminal**
+
+---
+
+## 📅 Roadmap de 90 Dias
+
+**Disponibilidade:** 6 horas por semana  
+(**ritmo recomendado:** ~1 hora por dia útil)
+
+---
+
+### 🔹 Mês 1 — Fundamentos
+
+#### Semana 1–2
+- Revisão de lógica: variáveis, funções, arrays e objetos
+- Fundamentos da linguagem escolhida (Node.js ou Python)
+- Git básico (clone, commit, push)
+
+#### Semana 3–4
+- Conceitos de HTTP e REST
+- Criação de uma API simples (CRUD em memória)
+- Estruturação de projeto back-end
+
+---
+
+### 🔹 Mês 2 — Prática com Dados
+
+#### Semana 5–6
+- SQL básico: SELECT, INSERT, UPDATE, DELETE
+- JOINs e modelagem simples
+- Conectar API a banco de dados
+
+#### Semana 7–8
+- Boas práticas de API
+- Tratamento de erros
+- Introdução à autenticação (conceito)
+
+---
+
+### 🔹 Mês 3 — Portfólio e Preparação
+
+#### Semana 9–10
+- Refatorar e organizar o projeto
+- Documentação da API (Swagger + README)
+- Validações e testes básicos
+
+#### Semana 11–12
+- Simulação de uso real do sistema
+- Preparar apresentação do projeto
+- Treinar explicação técnica (entrevistas/conversas internas)
+
+---
+
+## 🚀 Projeto de Portfólio
+
+### Projeto: **API de Gestão de Usuários e Conteúdo**
+
+#### Objetivo
+Desenvolver uma API REST que simule um sistema real de negócio.
+
+#### Escopo
+- Cadastro e autenticação de usuários
+- CRUD de entidades (ex: posts, registros ou tickets)
+- Persistência em banco de dados relacional
+
+#### Entregáveis
+- Repositório no GitHub
+- API funcional localmente
+- Documentação clara dos endpoints
+
+#### Critérios de Aceitação
+- Seguir padrão REST
+- Uso consistente de banco de dados
+- Código organizado e legível
+- Capacidade de explicar decisões técnicas
+
+💡 **Dica:**  
+Relacionar o projeto com conceitos de **produção, monitoramento e infraestrutura** é um grande diferencial.
+
+---
+
+## 💬 Roteiro de Entrevistas (Júnior)
+
+### Pergunta 1 — O que faz um desenvolvedor back-end?
+**Resposta esperada:**  
+Responsável pela lógica, regras de negócio, dados e integração entre sistemas.
+
+---
+
+### Pergunta 2 — O que é uma API REST?
+**Resposta esperada:**  
+Um padrão de comunicação entre sistemas via HTTP, usando verbos como GET, POST e PUT.
+
+---
+
+### Pergunta 3 — Como você lida com erros?
+**Resposta esperada:**  
+Tratamento previsível, mensagens claras e logs para diagnóstico.
+
+---
+
+### Pergunta 4 — Como você aprende algo novo?
+**Resposta esperada:**  
+Estudo conceitos, aplico na prática e conecto com problemas reais.
+
+---
+
+### Pergunta 5 — Qual seu diferencial?
+**Resposta esperada:**  
+Visão de produção, infraestrutura e foco em resolver problemas reais.
+
+---
+
+## 🎓 Trilha DIO Recomendada
+
+### Trilha
+**Formação Node.js Developer**
+
+### Por que essa trilha?
+- Foco direto em back-end
+- APIs, banco de dados e projetos práticos
+- Boa ponte entre estudo e atuação real
+
+### Próximos Passos
+1. Acesse https://www.dio.me  
+2. Busque por **Formação Node.js Developer**
+3. Inscreva-se gratuitamente
+4. Siga a trilha junto com este roadmap
+
+---
+
+## ✨ Considerações Finais
+
+> Constância é mais importante que velocidade.
+
+Com disciplina e seu background em infraestrutura, este roadmap te posiciona muito bem para atuar oficialmente como **Desenvolvedora Back-end**.
+
+Boa jornada 🚀
